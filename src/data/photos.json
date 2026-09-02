@@ -1,0 +1,437 @@
+{
+  "hero": {
+    "file": "/photos/hero.jpg",
+    "card": "/photos/hero.jpg",
+    "width": 1500,
+    "height": 750,
+    "alt": "A wide view inside Sanjay Gandhi National Park: forested slopes under open sky.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Mumbai 03-2016 89 scene in Sanjay Gandhi National Park.jpg",
+      "artist": "A.Savin",
+      "license": "FAL",
+      "licenseUrl": "http://artlibre.org/licence/lal/en",
+      "source": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_89_scene_in_Sanjay_Gandhi_National_Park.jpg"
+    }
+  },
+  "forest-trees": {
+    "file": "/photos/forest-trees.jpg",
+    "card": "/photos/forest-trees.jpg",
+    "width": 1500,
+    "height": 1000,
+    "alt": "Tall trees standing in dense forest inside Sanjay Gandhi National Park.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Trees, Sanjay Gandhi National Park.jpg",
+      "artist": "Magpie2025",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Trees,_Sanjay_Gandhi_National_Park.jpg"
+    }
+  },
+  "park-road": {
+    "file": "/photos/park-road.jpg",
+    "card": "/photos/park-road.jpg",
+    "width": 1500,
+    "height": 1000,
+    "alt": "A quiet road running between trees inside Sanjay Gandhi National Park.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Trees and road, Sanjay Gandhi National Park.jpg",
+      "artist": "Magpie2025",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Trees_and_road,_Sanjay_Gandhi_National_Park.jpg"
+    }
+  },
+  "entrance": {
+    "file": "/photos/entrance.jpg",
+    "card": "/photos/entrance.jpg",
+    "width": 1500,
+    "height": 1111,
+    "alt": "The main entrance gate of Sanjay Gandhi National Park in Borivali, Mumbai.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Entrance gate of Sanjay Gandhi National Park, Mumbai.jpg",
+      "artist": "सुबोध कुलकर्णी",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Entrance_gate_of_Sanjay_Gandhi_National_Park,_Mumbai.jpg"
+    }
+  },
+  "stream": {
+    "file": "/photos/stream.jpg",
+    "card": "/photos/stream.jpg",
+    "width": 1500,
+    "height": 1000,
+    "alt": "The Shilonda stream running through forest in Sanjay Gandhi National Park.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Shilonda stream in Sanjay Gandhi National Park, Mumbai- NinadVBhosale.jpg",
+      "artist": "Ninad Bhosale",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Shilonda_stream_in_Sanjay_Gandhi_National_Park,_Mumbai-_NinadVBhosale.jpg"
+    }
+  },
+  "boating-lake": {
+    "file": "/photos/boating-lake.jpg",
+    "card": "/photos/boating-lake.jpg",
+    "width": 1500,
+    "height": 1125,
+    "alt": "A lake inside Sanjay Gandhi National Park, surrounded by forest.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Sanjay Gandhi National Park (Lake).jpeg",
+      "artist": "Self",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Sanjay_Gandhi_National_Park_(Lake).jpeg"
+    }
+  },
+  "tulsi-lake": {
+    "file": "/photos/tulsi-lake.jpg",
+    "card": "/photos/tulsi-lake.jpg",
+    "width": 1500,
+    "height": 1125,
+    "alt": "Tulsi Lake, a forested water body within the Sanjay Gandhi National Park landscape.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Tulsi Lake, SGNP.jpg",
+      "artist": "KartikMistry",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tulsi_Lake,_SGNP.jpg"
+    }
+  },
+  "vihar-lake": {
+    "file": "/photos/vihar-lake.jpg",
+    "card": "/photos/vihar-lake.jpg",
+    "width": 1500,
+    "height": 1123,
+    "alt": "Vihar Lake, one of the water bodies associated with the park landscape.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Vihar Lake.jpg",
+      "artist": "Elroy Serrao",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Vihar_Lake.jpg"
+    }
+  },
+  "railtrack": {
+    "file": "/photos/railtrack.jpg",
+    "card": "/photos/railtrack.jpg",
+    "width": 1500,
+    "height": 999,
+    "alt": "The narrow-gauge track of the Van Rani mini train inside the park.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Sanjay gandhi national part railtrack.jpg",
+      "artist": "Shishirdasika",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sanjay_gandhi_national_part_railtrack.jpg"
+    }
+  },
+  "forest-path": {
+    "file": "/photos/forest-path.jpg",
+    "card": "/photos/forest-path.jpg",
+    "width": 1500,
+    "height": 999,
+    "alt": "A road curving away through the forest inside Sanjay Gandhi National Park.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Sanjay Gandhi National Park Road.jpg",
+      "artist": "Shishirdasika",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sanjay_Gandhi_National_Park_Road.jpg"
+    }
+  },
+  "canopy": {
+    "file": "/photos/canopy.jpg",
+    "card": "/photos/canopy.jpg",
+    "width": 1500,
+    "height": 432,
+    "alt": "Forest canopy inside Sanjay Gandhi National Park.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Sanjay Gandhi National Park.JPG",
+      "artist": "Patrice78500",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sanjay_Gandhi_National_Park.JPG"
+    }
+  },
+  "undergrowth": {
+    "file": "/photos/undergrowth.jpg",
+    "card": "/photos/undergrowth.jpg",
+    "width": 1500,
+    "height": 2667,
+    "alt": "Vegetation and undergrowth inside Sanjay Gandhi National Park.",
+    "place": "sgnp",
+    "credit": {
+      "title": "At Sanjay Gandhi National Park (312703427).jpg",
+      "artist": "Dinesh Valke from Thane, India",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:At_Sanjay_Gandhi_National_Park_(312703427).jpg"
+    }
+  },
+  "orchid": {
+    "file": "/photos/orchid.jpg",
+    "card": "/photos/orchid.jpg",
+    "width": 1500,
+    "height": 2250,
+    "alt": "Orchids growing in Sanjay Gandhi National Park.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Orchids, Sanjay Gandhi National Park.jpg",
+      "artist": "Magpie2025",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Orchids,_Sanjay_Gandhi_National_Park.jpg"
+    }
+  },
+  "green-detail": {
+    "file": "/photos/green-detail.jpg",
+    "card": "/photos/green-detail.jpg",
+    "width": 1500,
+    "height": 846,
+    "alt": "A close view of vegetation in Sanjay Gandhi National Park.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Sanjay Gandhi National Park (3362445150).jpg",
+      "artist": "Dinesh Valke from Thane, India",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sanjay_Gandhi_National_Park_(3362445150).jpg"
+    }
+  },
+  "park-map-board": {
+    "file": "/photos/park-map-board.jpg",
+    "card": "/photos/park-map-board.jpg",
+    "width": 1500,
+    "height": 2025,
+    "alt": "The park’s own tourist map board, displayed inside Sanjay Gandhi National Park.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Tourist map displayed in Sanjay Gandhi National Park, Mumbai.jpg",
+      "artist": "सुबोध कुलकर्णी",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tourist_map_displayed_in_Sanjay_Gandhi_National_Park,_Mumbai.jpg"
+    }
+  },
+  "info-board": {
+    "file": "/photos/info-board.jpg",
+    "card": "/photos/info-board.jpg",
+    "width": 1500,
+    "height": 1111,
+    "alt": "A visitor information board at the park entrance.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Information board at the entrance of Sanjay Gandhi National Park, Mumbai.jpg",
+      "artist": "सुबोध कुलकर्णी",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Information_board_at_the_entrance_of_Sanjay_Gandhi_National_Park,_Mumbai.jpg"
+    }
+  },
+  "kanheri-facade": {
+    "file": "/photos/kanheri-facade.jpg",
+    "card": "/photos/kanheri-facade.jpg",
+    "width": 1500,
+    "height": 2400,
+    "alt": "The rock-cut facade of the Kanheri cave complex, carved into the hillside.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Mumbai 03-2016 94 Kanheri Caves.jpg",
+      "artist": "A.Savin",
+      "license": "FAL",
+      "licenseUrl": "http://artlibre.org/licence/lal/en",
+      "source": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_94_Kanheri_Caves.jpg"
+    }
+  },
+  "kanheri-hall": {
+    "file": "/photos/kanheri-hall.jpg",
+    "card": "/photos/kanheri-hall.jpg",
+    "width": 1500,
+    "height": 2000,
+    "alt": "The interior of a rock-cut hall at Kanheri, with carved pillars.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Kanheri Caves Interiors 02.jpg",
+      "artist": "Aalokmjoshi",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kanheri_Caves_Interiors_02.jpg"
+    }
+  },
+  "kanheri-interior": {
+    "file": "/photos/kanheri-interior.jpg",
+    "card": "/photos/kanheri-interior.jpg",
+    "width": 1500,
+    "height": 1125,
+    "alt": "A rock-cut chamber inside the Kanheri caves.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Kanheri Caves Interiors 08.jpg",
+      "artist": "Aalokmjoshi",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kanheri_Caves_Interiors_08.jpg"
+    }
+  },
+  "kanheri-buddha": {
+    "file": "/photos/kanheri-buddha.jpg",
+    "card": "/photos/kanheri-buddha.jpg",
+    "width": 1500,
+    "height": 2250,
+    "alt": "A carved standing Buddha figure at Kanheri.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Buddha at Kanheri 01.jpg",
+      "artist": "Shishirdasika",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Buddha_at_Kanheri_01.jpg"
+    }
+  },
+  "kanheri-carving": {
+    "file": "/photos/kanheri-carving.jpg",
+    "card": "/photos/kanheri-carving.jpg",
+    "width": 1500,
+    "height": 2254,
+    "alt": "A relief carving of a donor couple in the rock at Kanheri.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Kanheri donor couple.jpg",
+      "artist": "Shishirdasika",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kanheri_donor_couple.jpg"
+    }
+  },
+  "leopard": {
+    "file": "/photos/leopard.jpg",
+    "card": "/photos/leopard.jpg",
+    "width": 1500,
+    "height": 1071,
+    "alt": "An Indian leopard, the species that lives in the park’s forest.",
+    "place": "repr",
+    "credit": {
+      "title": "Indian leopard in Jawai Bandh April 2025 by Tisha Mukherjee 02.jpg",
+      "artist": "Tisha Mukherjee",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Indian_leopard_in_Jawai_Bandh_April_2025_by_Tisha_Mukherjee_02.jpg"
+    }
+  },
+  "chital": {
+    "file": "/photos/chital.jpg",
+    "card": "/photos/chital.jpg",
+    "width": 1500,
+    "height": 996,
+    "alt": "A chital, or spotted deer, standing in open forest.",
+    "place": "repr",
+    "credit": {
+      "title": "Chital Axis Deer stag (12340301065).jpg",
+      "artist": "shankar s. from Dubai, united arab emirates",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Chital_Axis_Deer_stag_(12340301065).jpg"
+    }
+  },
+  "langur": {
+    "file": "/photos/langur.jpg",
+    "card": "/photos/langur.jpg",
+    "width": 1500,
+    "height": 1125,
+    "alt": "A grey langur resting in a tree.",
+    "place": "repr",
+    "credit": {
+      "title": "Northern plains gray langur in Chilkigarh March 2021 by Tisha Mukherjee 01.jpg",
+      "artist": "Tisha Mukherjee",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Northern_plains_gray_langur_in_Chilkigarh_March_2021_by_Tisha_Mukherjee_01.jpg"
+    }
+  },
+  "butterfly-blue-tiger": {
+    "file": "/photos/butterfly-blue-tiger.jpg",
+    "card": "/photos/butterfly-blue-tiger.jpg",
+    "width": 1500,
+    "height": 1000,
+    "alt": "A blue tiger butterfly, pale blue streaks on dark brown wings.",
+    "place": "repr",
+    "credit": {
+      "title": "Blue tiger (Tirumala limniace exoticus).jpg",
+      "artist": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Blue_tiger_(Tirumala_limniace_exoticus).jpg"
+    }
+  },
+  "butterfly-crimson-rose": {
+    "file": "/photos/butterfly-crimson-rose.jpg",
+    "card": "/photos/butterfly-crimson-rose.jpg",
+    "width": 1500,
+    "height": 1000,
+    "alt": "A crimson rose butterfly, black wings with white bands and a red body.",
+    "place": "repr",
+    "credit": {
+      "title": "Crimson Rose (Pachliopta hector) underside.jpg",
+      "artist": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Crimson_Rose_(Pachliopta_hector)_underside.jpg"
+    }
+  },
+  "drongo": {
+    "file": "/photos/drongo.jpg",
+    "card": "/photos/drongo.jpg",
+    "width": 1500,
+    "height": 1000,
+    "alt": "A greater racket-tailed drongo perched, its long tail streamers visible.",
+    "place": "repr",
+    "credit": {
+      "title": "Greater Racket-tailed-Drongo cropped.jpg",
+      "artist": "Mildeep",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Greater_Racket-tailed-Drongo_cropped.jpg"
+    }
+  },
+  "flycatcher": {
+    "file": "/photos/flycatcher.jpg",
+    "card": "/photos/flycatcher.jpg",
+    "width": 1500,
+    "height": 1000,
+    "alt": "An Indian paradise flycatcher with long white tail streamers.",
+    "place": "repr",
+    "credit": {
+      "title": "Indian Paradise-Flycatcher in Rabindra Sarobar October 2025 by Tisha Mukherjee 01.jpg",
+      "artist": "Tisha Mukherjee",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Indian_Paradise-Flycatcher_in_Rabindra_Sarobar_October_2025_by_Tisha_Mukherjee_01.jpg"
+    }
+  },
+  "python": {
+    "file": "/photos/python.jpg",
+    "card": "/photos/python.jpg",
+    "width": 1500,
+    "height": 1510,
+    "alt": "An Indian rock python photographed in Sanjay Gandhi National Park.",
+    "place": "sgnp",
+    "credit": {
+      "title": "Indian Rock Python (Python molurus) at Sanjay Gandhi National Park, Mumbai, Maharashtra.jpg",
+      "artist": "Ninad Bhosale",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Indian_Rock_Python_(Python_molurus)_at_Sanjay_Gandhi_National_Park,_Mumbai,_Maharashtra.jpg"
+    }
+  }
+}
